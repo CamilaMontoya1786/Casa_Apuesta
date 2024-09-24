@@ -1,0 +1,31 @@
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\WCasaApuestas\bin\Debug\WCasaApuestas.exe.config
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\WCasaApuestas\bin\Debug\WCasaApuestas.exe
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\WCasaApuestas\bin\Debug\WCasaApuestas.pdb
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\WCasaApuestas\obj\Debug\WCasaApuestas.csproj.AssemblyReference.cache
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\WCasaApuestas\obj\Debug\WCasaApuestas.csproj.SuggestedBindingRedirects.cache
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\WCasaApuestas\obj\Debug\WCasaApuestas.Form1.resources
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\WCasaApuestas\obj\Debug\WCasaApuestas.Properties.Resources.resources
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\WCasaApuestas\obj\Debug\WCasaApuestas.csproj.GenerateResource.cache
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\WCasaApuestas\obj\Debug\WCasaApuestas.csproj.CoreCompileInputs.cache
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\WCasaApuestas\obj\Debug\WCasaApuestas.exe
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\WCasaApuestas\obj\Debug\WCasaApuestas.pdb
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\WCasaApuestas\obj\Debug\WCasaApuestas.Registrarse.resources
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\wCasaApuestas\obj\Debug\WCasaApuestas.Apuestas.resources
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\wCasaApuestas\obj\Debug\WCasaApuestas.AtencionAlCliente.resources
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\wCasaApuestas\obj\Debug\WCasaApuestas.MenuPrincipal.resources
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\wCasaApuestas\obj\Debug\WCasaApuestas.RecargasYRetiros.resources
+C:\Users\camim\OneDrive\UNAULA\Ingeniería de Software\wCasaApuestas\bin\Debug\WCasaApuestas.exe.config
+C:\Users\camim\OneDrive\UNAULA\Ingeniería de Software\wCasaApuestas\bin\Debug\WCasaApuestas.exe
+C:\Users\camim\OneDrive\UNAULA\Ingeniería de Software\wCasaApuestas\bin\Debug\WCasaApuestas.pdb
+C:\Users\camim\OneDrive\UNAULA\Ingeniería de Software\wCasaApuestas\obj\Debug\WCasaApuestas.csproj.AssemblyReference.cache
+C:\Users\camim\OneDrive\UNAULA\Ingeniería de Software\wCasaApuestas\obj\Debug\WCasaApuestas.Apuestas.resources
+C:\Users\camim\OneDrive\UNAULA\Ingeniería de Software\wCasaApuestas\obj\Debug\WCasaApuestas.AtencionAlCliente.resources
+C:\Users\camim\OneDrive\UNAULA\Ingeniería de Software\wCasaApuestas\obj\Debug\WCasaApuestas.Form1.resources
+C:\Users\camim\OneDrive\UNAULA\Ingeniería de Software\wCasaApuestas\obj\Debug\WCasaApuestas.MenuPrincipal.resources
+C:\Users\camim\OneDrive\UNAULA\Ingeniería de Software\wCasaApuestas\obj\Debug\WCasaApuestas.Properties.Resources.resources
+C:\Users\camim\OneDrive\UNAULA\Ingeniería de Software\wCasaApuestas\obj\Debug\WCasaApuestas.RecargasYRetiros.resources
+C:\Users\camim\OneDrive\UNAULA\Ingeniería de Software\wCasaApuestas\obj\Debug\WCasaApuestas.Registrarse.resources
+C:\Users\camim\OneDrive\UNAULA\Ingeniería de Software\wCasaApuestas\obj\Debug\WCasaApuestas.csproj.GenerateResource.cache
+C:\Users\camim\OneDrive\UNAULA\Ingeniería de Software\wCasaApuestas\obj\Debug\WCasaApuestas.csproj.CoreCompileInputs.cache
+C:\Users\camim\OneDrive\UNAULA\Ingeniería de Software\wCasaApuestas\obj\Debug\WCasaApuestas.exe
+C:\Users\camim\OneDrive\UNAULA\Ingeniería de Software\wCasaApuestas\obj\Debug\WCasaApuestas.pdb
